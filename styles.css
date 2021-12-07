@@ -104,6 +104,7 @@ section .cards .text-card{
 section .cards .image-card{
     
     padding: 20px;
+    width: 20%;
     
 }
 
