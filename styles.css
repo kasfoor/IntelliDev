@@ -66,6 +66,10 @@ section:nth-child(8){
 section:nth-child(9){
     color: #fff;
 }
+section:nth-child(9){
+    color: #1D212B;
+    background: #fff;
+}
 
 
 section .info {
@@ -93,6 +97,12 @@ section .cards{
 section .cards .text-card{
     background: #2696E9;
     margin: 30px;
+    padding: 20px;
+    
+}
+
+section .cards .image-card{
+    
     padding: 20px;
     
 }
