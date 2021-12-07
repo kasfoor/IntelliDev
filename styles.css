@@ -136,6 +136,11 @@ section .cards .text-card h3{
 }
 
 .logo{
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.pic{
     max-width: 500px;
     max-height: 500px;
 }
